@@ -116,13 +116,6 @@ ultrasonic-obstacle-detector/
 
 ---
 
-## 📸 Gallery
-
-<p align="center">
-  <img src="https://your-link.com/wiring_diagram.png" width="400" />
-  <br/>
-  <em>Basic wiring setup for HC-SR04 and Arduino Uno</em>
-</p>
 
 ---
 
